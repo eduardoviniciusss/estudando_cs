@@ -1,8 +1,17 @@
+using System.Runtime.Serialization;
+
 int a = 234;
 int b = 50;
 int c = 35;
 
-if(a>b) //SE
+//&&(E ou and) e || (OU/OR)
+//SER MULHER E TER >=25 (TRUE)
+//MULHER(V) && 45 ANOS(V) (TRUE)
+
+//MULHER(V) && 18 anos(f) (false)
+
+
+if(a>b || a!=a)//SE
 {
     Console.WriteLine("é verdade");
 }
