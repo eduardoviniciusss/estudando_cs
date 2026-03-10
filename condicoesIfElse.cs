@@ -5,13 +5,13 @@ int b = 50;
 int c = 35;
 
 //&&(E ou and) e || (OU/OR)
-//SER MULHER E TER >=25 (TRUE)
+//SER MULHER E TER >=25 (TRUE)\
 //MULHER(V) && 45 ANOS(V) (TRUE)
 
 //MULHER(V) && 18 anos(f) (false)
 
 
-if(a>b || a!=a)//SE
+if(a>b)//SE
 {
     Console.WriteLine("é verdade");
 }
