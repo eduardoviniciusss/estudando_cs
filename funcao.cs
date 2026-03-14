@@ -4,6 +4,8 @@ GerarPreco(11);
 GerarPreco(48);
 GerarPreco(60);
 
+Console.ReadLine();
+
 static void ExibidorDeMsg()
 {
    Console.WriteLine("Testando função");
