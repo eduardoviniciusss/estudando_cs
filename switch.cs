@@ -1,3 +1,5 @@
+
+//só compara '==' igualdade.
 string cor = "Roxo";
 
 switch (cor)
